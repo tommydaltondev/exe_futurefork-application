@@ -5,6 +5,7 @@
  
 Future Fork is an interactive multimedia design project that was featured in the Starts/Speculations: Graphic Design in Chicago Past and Future exhibition June 12, 2014–September 30, 2014. The animation functions are developed in ActionsScript3 and it's mathematically impossible for Future Fork to repeat itself once it is launched.
 <br/>
+<br/>
 <span style="color:#4493f8">vector art:</span> Jonathan Petersen<br/>
 <span style="color:#4493f8">dev+ui&ani:</span> Tommy Dalton
 
