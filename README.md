@@ -1,9 +1,9 @@
 # exe_futurefork-application
  Windows and MacOS application files
+ <a href="[https://www.tommydalton.dev/_utility/FutureFork.zip" download target="_blank">Download .zip</a>
+ <br/>
 
- <a href="https://github.com/tommydaltondev/exe_futurefork-application/blob/main/dist/FutureFork.zip" download>
- Download Windows installer
-</a>
+
 <img src="https://github.com/tommydaltondev/exe_futurefork-application/blob/main/build/img/future_fork-native_resolution__project_detail_enlarge.png" alt="never the same" width="100%">
  
 Future Fork is an interactive multimedia design project that was featured in the Starts/Speculations: Graphic Design in Chicago Past and Future exhibition June 12, 2014–September 30, 2014. The animation functions are developed in ActionsScript3 and it's mathematically impossible for Future Fork to repeat itself once it is launched.
