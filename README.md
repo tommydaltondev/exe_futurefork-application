@@ -1,7 +1,6 @@
 # exe_futurefork-application
- Windows and MacOS application files
- <a href="[https://www.tommydalton.dev/_utility/FutureFork.zip" download target="_blank">Download .zip</a>
- <br/>
+ Windows and MacOS application files<br/>
+<a href="https://www.tommydalton.dev/_utility/FutureFork.zip" download>Download .zip</a><br/><br/>
 
 
 <img src="https://github.com/tommydaltondev/exe_futurefork-application/blob/main/build/img/future_fork-native_resolution__project_detail_enlarge.png" alt="never the same" width="100%">
